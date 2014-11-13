@@ -7,6 +7,7 @@ public class Work2Activity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		System.out.println("sssssssssss");
 	}
 
 	@Override
